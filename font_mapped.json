@@ -1,0 +1,520 @@
+[
+  {
+    "fontName": "PoiretOne-Regular.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "AmaticSC-Regular.ttf",
+    "locked": false,
+    "bold": "AmaticSC-Bold.ttf",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Bazaronite.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "berylium rg.ttf",
+    "locked": true,
+    "bold": "berylium bd.ttf",
+    "italic": "berylium rg it.ttf",
+    "boldAndItalic": "berylium bd it.ttf"
+  },
+  {
+    "fontName": "BLKCHCRY.TTF",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "SpecialElite-Regular.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "DancingScript-Regular.ttf",
+    "locked": false,
+    "bold": "DancingScript-Bold.ttf",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "LobsterTwo-Regular.ttf",
+    "locked": true,
+    "bold": "LobsterTwo-Bold.ttf",
+    "italic": "LobsterTwo-Italic.ttf",
+    "boldAndItalic": "LobsterTwo-BoldItalic.ttf"
+  },
+  {
+    "fontName": "FrederickatheGreat-Regular.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "MarcellusSC-Regular.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Caveat-Regular.ttf",
+    "locked": false,
+    "bold": "Caveat-Bold.ttf",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "BoyzRGrossNF.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "BoyzRGrossShadowNF.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Quikhand.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Bradley Gratis.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "FasterOne-Regular.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "CormorantSC-Regular.ttf",
+    "locked": true,
+    "bold": "CormorantSC-Bold.ttf",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "budmo jiggler.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "budmo jigglish.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "carbon bl.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Mali-Regular.ttf",
+    "locked": false,
+    "bold": "Mali-Bold.ttf",
+    "italic": "Mali-Italic.ttf",
+    "boldAndItalic": "Mali-BoldItalic.ttf"
+  },
+  {
+    "fontName": "Monoton-Regular.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "RibeyeMarrow-Regular.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "RunyTunesRevisitedNF.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "carbon phyber.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "cenobyte.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "sandoval speed.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "sandoval.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "SHATTERB.TTF",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },  
+  {
+    "fontName": "BRLNSB.TTF",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "njnaruto.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Trochut-Regular.ttf",
+    "locked": true,
+    "bold": "Trochut-Bold.ttf",
+    "italic": "Trochut-Italic.ttf",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "mexcellent rg.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "SpaceMono-Regular.ttf",
+    "locked": true,
+    "bold": "SpaceMono-Bold.ttf",
+    "italic": "SpaceMono-Italic.ttf",
+    "boldAndItalic": "SpaceMono-BoldItalic.ttf"
+  },
+  {
+    "fontName": "SHOWG.TTF",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Snickles.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "stentiga.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "comic_andy.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "collegiateHeavyOutline Medium.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "deftone stylus.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "TheGodfather-v2.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "vinque.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "DENNE-SKETCHY.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "dotty.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "PetitFormalScript-Regular.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "MontserratSubrayada-Regular.ttf",
+    "locked": true,
+    "bold": "MontserratSubrayada-Bold.ttf",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Nosifer-Regular.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "foo.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "giant tigers.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "good times rg.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "GOODDP__.TTF",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "minya nouvelle rg.ttf",
+    "locked": true,
+    "bold": "minya nouvelle bd.ttf",
+    "italic": "minya nouvelle it.ttf",
+    "boldAndItalic": "minya nouvelle bd it.ttf"
+  },
+  {
+    "fontName": "MetalMacabre.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  }, 
+  {
+    "fontName": "Eutemia.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },  
+  {
+    "fontName": "HelveticaInserat-Roman.otf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Mael.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "metal lord.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Orbitron-Regular.ttf",
+    "locked": true,
+    "bold": "Orbitron-Bold.ttf",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "PressStart2P-Regular.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "HelveticaRoundedLTStd-Black.otf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "ZillaSlabHighlight-Regular.ttf",
+    "locked": true,
+    "bold": "ZillaSlabHighlight-Bold.ttf",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Qarmic sans Abridged.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "planet benson 2.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "pricedown bl.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "HOMOARAK.TTF",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "James Almacen.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Scada-Regular.ttf",
+    "locked": false,
+    "bold": "Scada-Bold.ttf",
+    "italic": "Scada-Italic.ttf",
+    "boldAndItalic": "Scada-BoldItalic.ttf"
+  },
+  {
+    "fontName": "mexcellent 3d.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "PenguinAttack.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "libel-suit-rg.ttf",
+    "locked": false,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Share-Regular.ttf",
+    "locked": true,
+    "bold": "Share-Bold.ttf",
+    "italic": "Share-Italic.ttf",
+    "boldAndItalic": "Share-BoldItalic.ttf"
+  },
+  {
+    "fontName": "ADDLG_.TTF",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "Fontograd.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  },
+  {
+    "fontName": "arialbd.ttf",
+    "locked": true,
+    "bold": "",
+    "italic": "",
+    "boldAndItalic": ""
+  }
+]
